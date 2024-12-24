@@ -116,3 +116,6 @@ class WeatherApp(App):
 
 if __name__ == '__main__':
     WeatherApp().run() 
+
+
+tags: #my first python #my first coding #my first coding app #weatherApp
